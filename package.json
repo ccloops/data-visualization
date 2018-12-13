@@ -26,6 +26,8 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "csvtojson": "^2.0.8",
+    "d3": "^5.7.0",
     "dotenv": "^6.2.0",
     "eslint": "^5.10.0",
     "express": "^4.16.4",
